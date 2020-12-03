@@ -6,7 +6,7 @@
     "bootstrap-sass": "^3.3.7",
     "bootstrap-tagsinput": "^0.7.1",
     "bootswatch": "^3.3.7",
-    "core-js": "^3.0.0",
+    "core-js": "^3.8.0",
     "eonasdan-bootstrap-datetimepicker": "^4.17.47",
     "highlight.js": "^9.12.0",
     "imports-loader": "^0.8.0",
